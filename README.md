@@ -1,5 +1,5 @@
 # golang-mongodb-official-vs-community-drivers
-![mongodb golang official drive vs community driver](https://imgur.com/a/CZabtgH)
+![mongodb golang official drive vs community driver](https://i.imgur.com/QTRUv16.jpg)
 
 ```
 $ go get -u github.com/codesenberg/bombardier
